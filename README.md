@@ -44,3 +44,9 @@
     │   ├── mbr.bin             // mbr的编译文件
     
     │   ├── mbr.S             // mbr的加载代码
+
+# 使用说明
+    ```cpp
+    cd boot
+    make all    //即可一键运行
+    ```
